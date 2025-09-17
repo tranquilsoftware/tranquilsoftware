@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I’m Brendan 👋
 
-<!--
-**tranquilsoftware/tranquilsoftware** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a web developer, designer & SEO engineer who strives to build high-quality lead-converting websites through clean, maintainable code and thoughtful design.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tech Stack
+
+- **Languages & Frameworks:** Qt, C++, Python, TypeScript, React, Next.js, Vue, Angular
+- **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS
+- **Backend & Tools:** Node.js, Express, MongoDB, Git
+- **Testing & QA:** Valgrind, Pytest, Jest
+- **Other:** WebGL, THREE.js, GSAP, Motion
+
+---
+
+## 📫 Let's Talk!
+
+| 🌐 Website | 💼 LinkedIn | 😁 FB | 👨‍🏫 Instagram | 🐙 GitHub | 📧 Email |
+| :----------: | :--------: | :--------: | :-------: | :------: |
+| [tranquilsoftware.com.au](https://www.tranquilsoftware.com.au/) | [in/tranquil-software](https://www.linkedin.com/company/tranquil-software/) | [@tranquilsoftware](https://www.facebook.com/profile.php?id=61571397603672) | [@tranquilsoftware](https://www.instagram.com/tranquilsoftware/) [@tranquilsoftware](https://github.com/tranquilsoftware) | [brendan@tranquilsoftware.com](mailto:brendan@tranquilsoftware.com) |
