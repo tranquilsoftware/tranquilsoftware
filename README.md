@@ -7,10 +7,10 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 ## 🛠️ Tech Stack
 
 - **Languages & Frameworks:** Qt, C++, Python, TypeScript, React, Next.js, Vue, Angular
-- **Styling & Design:** CSS3, SASS (SCSS), Tailwind CSS
+- **Styling & Design:** Tailwind CSS, SASS (SCSS), CSS3
 - **Backend & Tools:** Node.js, Express, MongoDB, Git
 - **Testing & QA:** Valgrind, Pytest, Jest
-- **Other:** WebGL, THREE.js, GSAP, Motion
+- **Other:** THREE.js, Motion, WebGL, GSAP
 
 ---
 
