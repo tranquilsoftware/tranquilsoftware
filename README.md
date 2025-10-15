@@ -4,7 +4,7 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 
 ---
 
-## 🛠️ Tech Stack
+## 🌐 Web Tech Stack
 
 - **Languages & Frameworks:** Python, TypeScript, React, Angular, Vue, Vite
 - **Styling & Design:** Tailwind CSS, SASS (SCSS), CSS3
