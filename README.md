@@ -18,6 +18,12 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 
 ---
 
+## 🔨 Free Tools
+
+- [SaaS Revenue Projection Calculator](https://tranquilsoftware.github.io/saas-revenue-projection-calculator/)
+
+---
+
 ## 📫 Let's Talk!
 
 | 🌐 Website | 💼 LinkedIn | 😁 FB | 👨‍🏫 Instagram | 📧 Email |
