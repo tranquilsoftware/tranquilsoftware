@@ -1,4 +1,4 @@
-# Hi, I’m Brendan 👋
+ # Hi, I’m Brendan 👋
 
 I’m a web developer, designer & SEO engineer who strives to build high-quality lead-converting websites through clean, maintainable code and thoughtful design.
 
@@ -19,8 +19,8 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 ---
 
 ## 🔨 Free Tools
-
-- [SaaS Revenue Projection Calculator](https://tranquilsoftware.github.io/saas-revenue-projection-calculator/)
+- 🔐 [Password Generator](https://tranquilsoftware.github.io/password-generator/)
+- 📊 [SaaS Revenue Projection Calculator](https://tranquilsoftware.github.io/saas-revenue-projection-calculator/)
 
 ---
 
