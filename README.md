@@ -10,7 +10,6 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 - **Styling & Design:** Tailwind CSS, THREE.js, Motion, WebGL, GSAP
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL
 - **Testing & QA:** Pytest, Jest
-- 
 
 ## 💾 Low-Level Stack
 - **Languages & Frameworks:** Qt, C++
