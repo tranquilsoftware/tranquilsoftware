@@ -28,4 +28,4 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 
 | 🌐 Website | 💼 LinkedIn | 😁 FB | 👨‍🏫 Instagram | 📧 Email |
 | :----------: | :--------: | :--------: | :-------: | :------: |
-| [tranquilsoftware.com.au](https://www.tranquilsoftware.com.au/) | [in/tranquil-software](https://www.linkedin.com/company/tranquil-software/) | [@tranquilsoftware](https://www.facebook.com/profile.php?id=61571397603672) | [@tranquilsoftware](https://www.instagram.com/tranquilsoftware/) | [my name @tranquilsoftware.com](my name @tranquilsoftware.com) |
+| [tranquilsoftware.com.au](https://www.tranquilsoftware.com.au/) | [in/tranquil-software](https://www.linkedin.com/company/tranquil-software/) | [@tranquilsoftware](https://www.facebook.com/profile.php?id=61571397603672) | [@tranquilsoftware](https://www.instagram.com/tranquilsoftware/) | my name @tranquilsoftware.com |
