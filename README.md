@@ -18,6 +18,7 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 ---
 
 ## 🔨 Free Tools
+- ✝️ [Holy Rosary Buddy](https://tranquilsoftware.github.io/holy-rosary-buddy/)
 - 🔐 [Password Generator](https://tranquilsoftware.github.io/password-generator/)
 - 📊 [SaaS Revenue Projection Calculator](https://tranquilsoftware.github.io/saas-revenue-projection-calculator/)
 - 💵 [S&P 500 Investment Calculator](https://tranquilsoftware.github.io/snp-500-interest-calculator/)
