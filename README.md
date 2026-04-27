@@ -1,6 +1,6 @@
  # Hi, I’m Brendan 👋
 
-I’m a web developer, designer & SEO engineer who strives to build high-quality lead-converting websites through clean, maintainable code and thoughtful design.
+I’m a web developer, designer & SEO engineer who strives to build high-quality lead-converting websites through clean, maintainable code and thoughtful design. You can see my work and business at [Tranquil Software](https://tranquilsoftware.com.au/)
 
 ---
 
