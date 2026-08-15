@@ -9,7 +9,7 @@ I’m a web developer, designer & SEO engineer who strives to build high-quality
 - **Languages & Frameworks:** Python, TypeScript, React, Angular, Vue, Vite
 - **Styling & Design:** Tailwind CSS, THREE.js, Motion, WebGL, GSAP
 - **Backend:** Node.js, Express, MongoDB, PostgreSQL
-- **Testing & QA:** Pytest, Jest
+- **Testing & QA:** Playwright, Jest
 
 ## 💾 Low-Level Stack
 - **Languages & Frameworks:** Qt, C++
